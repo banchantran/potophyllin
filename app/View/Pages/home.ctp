@@ -22,10 +22,10 @@
 <p class="mt15"><i class="icon-arrow"></i><span class="text-blue bold">Podophyllin của Thái Lan</span> có thể tự điều trị tại nhà với chi phí thấp, không tốn 20-30 triệu như điều trị tại các phòng khám đắt đỏ.</p>
 <p class="mt15"><i class="icon-arrow"></i><span class="text-blue Bold">Podophyllin của Thái Lan</span> có kết quả tốt ngay sau khi điều trị trong thời gian ngắn, không để lại sẹo hay biến chứng.</p>
 <p class="mt15">* Thời gian điều trị và kết quả có thể khác nhau tùy cơ địa và mức độ bệnh nặng nhẹ của mỗi người.</p>
-<p class="mt15"><strong>Cách dùng:</strong> Lấy bông tăm tẩm Podophyllin rồi chấm nhẹ lên vết sùi mào gà (<a href="#" class="more-detail">chi tiết</a>).</p>
+<p class="mt15"><strong>Cách dùng:</strong> Lấy bông tăm tẩm Podophyllin rồi chấm nhẹ lên vết sùi mào gà (<a href="<?php echo Router::url('/how-to-use'); ?>" class="more-detail">chi tiết</a>).</p>
 <p class="mt15"><strong>Liều lượng:</strong> 1 ngày sử dụng 1 lần duy nhất (hoặc 2 ngày chấm 1 lần)</p>
 <div class="booking TextC mt20 mb20">
     <h3>Giá: 790.000 đ/hộp tặng kèm 2 tuýp Tetracylin</h3>
     <p class="book-now">Đặt hàng ngay</p>
-    <h3>GỌI: 0915.44.11.99 (để được tư vấn)</h3>
+    <h3>GỌI: 0971.599.155 (để được tư vấn)</h3>
 </div>

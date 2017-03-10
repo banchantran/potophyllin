@@ -130,6 +130,7 @@ input[type="text"],input[type="tel"],input[type="password"]{
 .m0auto{ margin:0 auto}
 .m10auto{ margin:10px auto}
 .mt05{ margin-top:5px}
+.mt10{ margin-top:10px}
 .mt15{ margin-top:15px}
 .mt20{ margin-top:20px}
 .mt35{ margin-top:35px !important}
@@ -578,4 +579,14 @@ input.normal_input {
 
 .flowtable th.two_line {
 	vertical-align: middle;
+}
+.strong {
+	font-weight: bold;
+}
+.fw40 {
+	font-size: 40px !important;
+}
+.text-blue-bold {
+	color: #000080;
+	font-weight: bold;
 }

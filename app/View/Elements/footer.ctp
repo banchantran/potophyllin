@@ -1,2 +1,2 @@
 <a href="#" class="goto-top"><img src="<?php echo Router::url('/img/go-top.png') ?>" alt="top"></a>
-<p class="TextC">Copyright © 2016 tuvandieutrisuimaoga.com Nhà thuốc Thảo Lâm - Khu đô thị Đặng Xá - Gia Lâm Hà Nội - 0915.44.11.99</p>
+<p class="TextC">Copyright © 2016 tuvandieutrisuimaoga.com Quầy thuốc Thiện Tâm - Việt Hùng - Đông Anh - Hà Nội - 0971.599.155</p>

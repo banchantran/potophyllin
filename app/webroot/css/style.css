@@ -1,6 +1,8 @@
 #container {
     margin: auto;
-    width: 1400px;
+    max-width: 1400px;
+    padding: 0 10%;
+    min-height: 600px;
 }
 
 .nav {
@@ -13,6 +15,10 @@
     display: block;
     font-weight: bold;
     text-transform: uppercase;
+}
+
+.nav li.active a {
+    color: #0049b6;
 }
 
 .nav li {
@@ -105,4 +111,34 @@ h3.header {
 .more-detail {
     font-weight: bold;
     text-decoration: underline;
+}
+
+h3.title-contact {
+    font-size: 35px;
+}
+
+.wrapper-how-to-use {
+    padding: 20px 100px;
+    text-align: justify;
+}
+
+img {
+    max-width: 100%;
+}
+
+.step-use {
+    padding: 0 30px;
+    font-style: italic;
+}
+.step-use, .step-use li {
+    list-style: disc outside !important;
+}
+
+.wrapper-how-to-use ol li {
+    margin-bottom: 10px;
+}
+
+.wrapper-how-to-use ol, .wrapper-how-to-use ol li {
+    list-style: decimal !important;
+    margin-left: 13px;
 }

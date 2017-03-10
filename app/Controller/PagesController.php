@@ -80,4 +80,6 @@ class PagesController extends AppController {
 
 	public function home() {}
 	public function howToUse() {}
+	public function contact() {}
+	public function book() {}
 }

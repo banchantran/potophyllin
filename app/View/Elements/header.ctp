@@ -1,8 +1,8 @@
 <ul class="nav">
-    <li><a href="<?php echo Router::url('/'); ?>">Trang chủ</a></li>
-    <li><a href="">Bệnh sùi mào gà</a></li>
-    <li><a href="">Đặt hàng</a></li>
-    <li><a href="">Liên hệ</a></li>
+    <li class="<?php echo $this->action == 'home' ? 'active' : ''; ?>"><a href="<?php echo Router::url('/'); ?>">Trang chủ</a></li>
+    <li class="<?php echo $this->action == 'index' ? 'active' : ''; ?>"><a href="">Bệnh sùi mào gà</a></li>
+    <li class="<?php echo $this->action == 'book' ? 'active' : ''; ?>"><a href="<?php echo Router::url('/book'); ?>">Đặt hàng</a></li>
+    <li class="<?php echo $this->action == 'contact' ? 'active' : ''; ?>"><a href="<?php echo Router::url('/contact'); ?>">Liên hệ</a></li>
 </ul>
 <p>
     <img src="<?php echo Router::url('/img/icon.png'); ?>" alt="icon">

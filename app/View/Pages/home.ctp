@@ -34,19 +34,19 @@
 <div class="feedback">
     <fieldset>
         <legend>Anh Hùng - 35 tuổi, Từ Sơn - Bắc ninh</legend>
-        <p>a dùng sau 1 tuần thì thấy khỏi hẳn, lúc mới bị tưởng phải ra bạch mai để chữa.</p>
+        <p>Anh dùng sau 1 tuần thì thấy khỏi hẳn, lúc mới bị tưởng phải ra bạch mai để chữa.</p>
     </fieldset>
     <fieldset>
         <legend>Nhà thuốc Mỹ An Đường - Quận 12, Thành phố Hồ Chí Minh</legend>
-        <p>chị nhận thuốc và điều trị cho khách hàng của chị rồi, khách hàng có nhắn tin cho chị là đã điểu trị khỏi ở nhà cho ca vợ và chồng.</p>
+        <p>Chị nhận thuốc và điều trị cho khách hàng của chị rồi, khách hàng có nhắn tin cho chị là đã điểu trị khỏi ở nhà cho ca vợ và chồng.</p>
     </fieldset>
     <fieldset>
         <legend>Anh Mạnh - 29 tuổi, phố Nhà Chung Hà Nội</legend>
         <p>Anh dùng thuốc bôi va kết hợp pháp đồ uống của em đã khỏi hoàn toàn rồi, anh sợ nó bị lại nhưng từ tết giờ không thấy co gì nữa rồi. Anh Mạnh đi ra phòng khám xxx ở trần duy hưng xét nghiệm nhưng chi phí điều trị cao nên anh về rồi vào viện để điều trị, sau đó tìm hiểu đến sản phẩm sau khi nghe tư vấn anh đã tin tưởng  điều trị tại nhà.</p>
     </fieldset>
 </div>
-<div class="booking TextC mt20 mb20">
-    <h3>Giá: 790.000 đ/hộp tặng kèm 2 tuýp Tetracylin</h3>
-    <p class="book-now">Đặt hàng ngay</p>
-    <h3>GỌI: 0971.599.155 (để được tư vấn)</h3>
-</div>
+<p>Trên đây là phản hồi của khách hàng khi được tư vấn viên gọi điện thoại trong quá trình dùng thuốc. Để bảo mật thông tin khách hàng website đã thay đổi tên của bệnh nhân. <br>
+Chúng tôi tư vấn hỗ trợ 24/7, hãy liên hệ <strong>0971.599.155</strong> để được hỗ trợ.</p>
+<p class="mt20 mb65 TextC">
+    <img src="<?php echo Router::url('/img/hotline.jpg') ?>" alt="hotline">
+</p>

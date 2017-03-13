@@ -161,3 +161,9 @@ img {
 .feedback {
     margin-bottom: 50px;
 }
+
+ul.list, ul.list li {
+    list-style: disc;
+    margin-left: 10px;
+    font-style: italic;
+}

@@ -7,5 +7,5 @@
 
 <h3 class="title TextC mt20 fw40">GIÁ SẢN PHẨM PODOPHYLLIN 25% CHÍNH HÀNG: 790.000 VNĐ</h3>
 <p class="mt20 mb65 TextC">
-    <img src="<?php echo Router::url('/img/podophyllin-1.png') ?>" alt="hotline">
+    <img src="<?php echo Router::url('/img/podophyllin-1.jpg') ?>" alt="hotline">
 </p>

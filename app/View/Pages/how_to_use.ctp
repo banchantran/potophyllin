@@ -93,9 +93,5 @@
         miệng ,cổ tử cung ,bên trong hậu môn…) hoặc như là bên trong mũi.
     </p>
 
-    <div class="booking TextC mt20 mb20">
-        <h3>Giá: 790.000 đ/hộp tặng kèm 2 tuýp Tetracylin</h3>
-        <p class="book-now">Đặt hàng ngay</p>
-        <h3>GỌI: 0971.599.155 (để được tư vấn)</h3>
-    </div>
+    <?php echo $this->element('book_now'); ?>
 </div>

@@ -14,8 +14,4 @@
 <p class="mt20 mb65 TextC">
     <img src="<?php echo Router::url('/img/podophyllin-1.jpg') ?>" alt="hotline">
 </p>
-<div class="booking TextC mt20 mb20">
-    <h3>Giá: 790.000 đ/hộp tặng kèm 2 tuýp Tetracylin</h3>
-    <p class="book-now">Đặt hàng ngay</p>
-    <h3>GỌI: 0971.599.155 (để được tư vấn)</h3>
-</div>
+<?php echo $this->element('book_now'); ?>

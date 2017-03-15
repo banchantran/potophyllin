@@ -82,4 +82,5 @@ class PagesController extends AppController {
 	public function howToUse() {}
 	public function contact() {}
 	public function book() {}
+	public function info() {}
 }

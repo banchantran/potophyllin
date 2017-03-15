@@ -33,6 +33,7 @@
 	Router::connect('/how-to-use', array('controller' => 'pages', 'action' => 'howToUse'));
 	Router::connect('/contact', array('controller' => 'pages', 'action' => 'contact'));
 	Router::connect('/book', array('controller' => 'pages', 'action' => 'book'));
+	Router::connect('/info', array('controller' => 'pages', 'action' => 'info'));
 
 /**
  * Load all plugin routes. See the CakePlugin documentation on

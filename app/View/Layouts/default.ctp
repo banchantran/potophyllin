@@ -34,8 +34,10 @@
 	?>
 </head>
 <body>
+
 	<div id="container">
-		<div id="header">
+        <div id="header">
+            <?php echo $this->element('intro'); ?>
 			<?php echo $this->element('header'); ?>
 		</div>
 		<div id="content">
@@ -46,7 +48,7 @@
     <div id="footer">
         <?php echo $this->element('footer'); ?>
     </div>
-    <script src="https://uhchat.net/code.php?f=f89c36"></script>
+    <script src="https://uhchat.net/code.php?f=c97910"></script>
 <?php
 echo $this->Html->script('jquery');
 echo $this->Html->script('html5shiv');
